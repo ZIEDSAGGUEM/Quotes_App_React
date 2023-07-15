@@ -13,8 +13,9 @@ To run this app locally, follow these steps:
 
 ## Dependencies
 
-- React v17.0.2
-- React DOM v17.0.2
+"axios": "^1.4.0",
+"react": "^18.2.0",
+"react-dom": "^18.2.0"
 
 
 ## Contributing
